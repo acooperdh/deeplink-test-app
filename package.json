@@ -1,0 +1,16 @@
+{
+  "name": "deeplink-test-app",
+  "version": "1.0.0",
+  "description": "testing deeplinks for windows ",
+  "main": "main.js",
+  "repository": "https://github.com/acooperdh/deeplink-test-app",
+  "author": "acooperdh <64788086+acooperdh@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts":{
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^19.0.1",
+    "electron-builder": "^23.0.3"
+  }
+}
